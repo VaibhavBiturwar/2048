@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1521786593 source:c:\camen\random\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1522257686 source:c:\code block\c++\random\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<conio.h>
+
